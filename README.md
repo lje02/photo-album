@@ -3,7 +3,6 @@ sudo apt update && sudo apt install git
 
 克隆仓库
 git clone https://github.com/lje02/photo-album.git
-
 cd photo-album
 
 bash install.sh
