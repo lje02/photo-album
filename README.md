@@ -1,4 +1,4 @@
-git clone https://github.com/lje02/bot/photo-album.git
+git clone https://github.com/lje02/photo-album.git
 cd photo-album
 bash install.sh
 
