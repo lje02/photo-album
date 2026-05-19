@@ -2,7 +2,7 @@
 set -e
 
 # ----- 配置（可修改） -----
-GITHUB_REPO="https://github.com/你的用户名/album-app.git"   # 👈 改成你的仓库地址
+GITHUB_REPO="https://github.com/lje02/album-app.git"   # 👈 改成你的仓库地址
 INSTALL_DIR="/opt/album-app"
 NODE_VERSION="18"
 SERVICE_NAME="album-app"
